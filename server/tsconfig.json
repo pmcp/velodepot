@@ -1,0 +1,3 @@
+{
+  "extends": "../../kdm/.nuxt/tsconfig.server.json"
+}
